@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/WARdle/static/css/main.31d6cfe0.css",
+    "main.js": "/WARdle/static/js/main.ddcaf1d0.js",
+    "index.html": "/WARdle/index.html",
+    "main.ddcaf1d0.js.map": "/WARdle/static/js/main.ddcaf1d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ddcaf1d0.js"
+  ]
+}
