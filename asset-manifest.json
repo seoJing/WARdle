@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.31d6cfe0.css",
-    "main.js": "/my-app/static/js/main.6cabf2e5.js",
-    "index.html": "/my-app/index.html",
-    "main.6cabf2e5.js.map": "/my-app/static/js/main.6cabf2e5.js.map"
+    "main.css": "/WARdle/static/css/main.31d6cfe0.css",
+    "main.js": "/WARdle/static/js/main.0050dea1.js",
+    "index.html": "/WARdle/index.html",
+    "main.0050dea1.js.map": "/WARdle/static/js/main.0050dea1.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.6cabf2e5.js"
+    "static/js/main.0050dea1.js"
   ]
 }
