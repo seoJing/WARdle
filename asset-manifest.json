@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WARdle/static/css/main.3342517f.css",
-    "main.js": "/WARdle/static/js/main.c45c1059.js",
-    "static/media/ex.png": "/WARdle/static/media/ex.c03000d324a09050e107.png",
-    "index.html": "/WARdle/index.html",
-    "main.3342517f.css.map": "/WARdle/static/css/main.3342517f.css.map",
-    "main.c45c1059.js.map": "/WARdle/static/js/main.c45c1059.js.map"
+    "main.css": "/static/css/main.616c236a.css",
+    "main.js": "/static/js/main.eb3f08c2.js",
+    "static/media/ex.png": "/static/media/ex.c03000d324a09050e107.png",
+    "index.html": "/index.html",
+    "main.616c236a.css.map": "/static/css/main.616c236a.css.map",
+    "main.eb3f08c2.js.map": "/static/js/main.eb3f08c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3342517f.css",
-    "static/js/main.c45c1059.js"
+    "static/css/main.616c236a.css",
+    "static/js/main.eb3f08c2.js"
   ]
 }
