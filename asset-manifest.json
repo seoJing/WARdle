@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/WARdle/static/css/main.9445fa76.css",
-    "main.js": "/WARdle/static/js/main.49dec94a.js",
+    "main.css": "/WARdle/static/css/main.1cb80547.css",
+    "main.js": "/WARdle/static/js/main.50a25805.js",
     "static/media/main.mp3": "/WARdle/static/media/main.dc3778670ecece0658d1.mp3",
     "static/media/button.wav": "/WARdle/static/media/button.77cba0fa0a95abb2252f.wav",
     "static/media/button3.wav": "/WARdle/static/media/button3.daf7cffaf4c173ac7b76.wav",
-    "static/media/ex2.png": "/WARdle/static/media/ex2.025dc387788e35cd4a2e.png",
     "static/media/orange.wav": "/WARdle/static/media/orange.7c5424c2422bd5881e3f.wav",
     "static/media/button2.wav": "/WARdle/static/media/button2.55114f4d2a2ff091287a.wav",
     "static/media/green.wav": "/WARdle/static/media/green.30c61a0aca69793fc6dc.wav",
@@ -14,11 +13,11 @@
     "static/media/ex.png": "/WARdle/static/media/ex.c03000d324a09050e107.png",
     "static/media/WARdle.png": "/WARdle/static/media/WARdle.605b1e6dabfde95bd700.png",
     "index.html": "/WARdle/index.html",
-    "main.9445fa76.css.map": "/WARdle/static/css/main.9445fa76.css.map",
-    "main.49dec94a.js.map": "/WARdle/static/js/main.49dec94a.js.map"
+    "main.1cb80547.css.map": "/WARdle/static/css/main.1cb80547.css.map",
+    "main.50a25805.js.map": "/WARdle/static/js/main.50a25805.js.map"
   },
   "entrypoints": [
-    "static/css/main.9445fa76.css",
-    "static/js/main.49dec94a.js"
+    "static/css/main.1cb80547.css",
+    "static/js/main.50a25805.js"
   ]
 }
