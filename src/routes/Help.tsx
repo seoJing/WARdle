@@ -6,15 +6,10 @@ import exImg3 from '../img/ex3.png';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 
-// Props 타입 지정
-interface HelpProps {
-  buttonSound1: HTMLAudioElement;
-  buttonSound2: HTMLAudioElement;
-}
 
 function Help({ buttonSound1, buttonSound2 }: HelpProps) {
-  const [exImg, setExImg] = useState<number>(0);
-  const [page, setPage] = useState<number>(0);
+  const [exImg, setExImg] = useState(0);
+  const [page, setPage] = useState(0);
 
   // 이미지 소스 가져오기 함수
   const getImageSrc = (): string => {
